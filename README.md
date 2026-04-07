@@ -5,7 +5,7 @@ Time-resolved analysis of cursor trajectory data in a visual search task. Implem
 ## Directory Structure
 
 ```
-ts-ls-cursor-analysis/
+cursor-trajectories/
 ├── Ts and Ls - S2_4-class_Prediction.ipynb
 ├── Ts and Ls - S2_ErrorVsCorrect.ipynb
 ├── Ts and Ls - S2_PresentVsAbsent.ipynb
